@@ -65,4 +65,8 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 
 - Node.js
 - Hardhat
--
+- An Ethereum wallet private key (for deployment)
+
+## License
+
+MIT
